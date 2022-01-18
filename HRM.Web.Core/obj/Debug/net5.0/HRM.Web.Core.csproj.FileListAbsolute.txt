@@ -1,0 +1,12 @@
+D:\nambon\Project III\HRM.Web\HRM.Web.Core\obj\Debug\net5.0\HRM.Web.Core.csproj.AssemblyReference.cache
+D:\nambon\Project III\HRM.Web\HRM.Web.Core\obj\Debug\net5.0\HRM.Web.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\nambon\Project III\HRM.Web\HRM.Web.Core\obj\Debug\net5.0\HRM.Web.Core.AssemblyInfoInputs.cache
+D:\nambon\Project III\HRM.Web\HRM.Web.Core\obj\Debug\net5.0\HRM.Web.Core.AssemblyInfo.cs
+D:\nambon\Project III\HRM.Web\HRM.Web.Core\obj\Debug\net5.0\HRM.Web.Core.csproj.CoreCompileInputs.cache
+D:\nambon\Project III\HRM.Web\HRM.Web.Core\bin\Debug\net5.0\HRM.Web.Core.deps.json
+D:\nambon\Project III\HRM.Web\HRM.Web.Core\bin\Debug\net5.0\HRM.Web.Core.dll
+D:\nambon\Project III\HRM.Web\HRM.Web.Core\bin\Debug\net5.0\ref\HRM.Web.Core.dll
+D:\nambon\Project III\HRM.Web\HRM.Web.Core\bin\Debug\net5.0\HRM.Web.Core.pdb
+D:\nambon\Project III\HRM.Web\HRM.Web.Core\obj\Debug\net5.0\HRM.Web.Core.dll
+D:\nambon\Project III\HRM.Web\HRM.Web.Core\obj\Debug\net5.0\ref\HRM.Web.Core.dll
+D:\nambon\Project III\HRM.Web\HRM.Web.Core\obj\Debug\net5.0\HRM.Web.Core.pdb
